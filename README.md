@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenomoto3163
 - 👀 I’m interested in ...　cat
-- 🌱 I’m currently learning ... Google Action Script
+- 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
